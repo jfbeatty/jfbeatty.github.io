@@ -13,6 +13,8 @@ Although Sputnik represented a new and unexpected moment of crisis, one necessit
 
 The Science Talent Search had its roots in the Science Service, originally founded as a news service to distribute information about the latest scientific research to the public. But in the 1930s, under the leadership of Watson Davis, the Science Service began to expand its scope. The organization created a network of institutions that encouraged young people, as well as their parents and teachers, to explore science; they shared information about local and national happenings through their own _Science News-Letter_.
 
+<!--more-->
+
 * * *
 
 The Science Service created the Westinghouse Science Talent Search in 1942. The corporate name affixed to the STS reminds us that Westinghouse invested significant money and publicity. In this way the STS set the tone for much of the subsequent discussion about promoting science among American youth. Though the first search was held less than a year after Pearl Harbor and was very much shaped by wartime concerns, it was also clear that organizers were already planning for a future in which the United States would exercise scientific leadership. The high-school students of the 1940s—both boys and girls—needed to be prepared for that future.[^1]

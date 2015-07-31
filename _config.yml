@@ -9,13 +9,16 @@ title:               Lemonade and Information
 tagline:             'The personal website of Joshua Beatty'
 description:         'Libraries, history, &c.'
 url:                 http://jfbeatty.github.io
-baseurl:             'http://jfbeatty.github.io'
+baseurl:             ""
 paginate:            5
 
 # About/contact
 author:
   name:              Joshua Beatty
-  url:               https://twitter.com/beattyjf
+  twitter:           https://twitter.com/beattyjf
+  zotero:            https://www.zotero.org/jfbeatty
+  pinboard:          https://pinboard.in/u:jfbeatty
+  github:            https://github.com/jfbeatty
   email:             jfbeatty@gmail.com
 
 # Custom vars

@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Why *Lemonade and Information*?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+One hot summer day when I was about ten years old, I decided to open a lemonade stand. Unfortunately, we lived well off the main road and very cars drove by. But, optimistically, I thought the problem was that I didn’t have the right product. So I loaded my treasured Funk & Wagnalls encyclopedia set into my wagon, trundled it out to the roadside, and changed my sign to “Lemonade and Information.”
 
-There are currently two themes built on Poole:
+In retrospect, this was an early indication that I should become a librarian. (Disclaimer: I no longer see charging for factoids to be a particularly good model for libraries).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+As an undergraduate I took classes at four different colleges and switched majors five times, from meteorology to math, journalism, history, English, and finally a BA in anthropology. After graduating I worked in a chicken plant and then as an archaeologist and architectural preservationist before heading back to school for a doctorate in colonial American history. My dissertation was about why the colonists resisted the Stamp Act in 1765 (short answer: slavery) and took an unexpected research detour into the life of a wine merchant and Jacobite spy who fantasized about inciting a continent-wide slave revolt.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+In libraries I’ve found perhaps the only field where that irregular a background can be a positive asset (though I’ve yet to use my experience at the chicken plant). Since 2010 I’ve been the repository manager and a reference and instruction librarian at SUNY Plattsburgh.
