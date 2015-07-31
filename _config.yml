@@ -21,5 +21,9 @@ author:
   github:            https://github.com/jfbeatty
   email:             jfbeatty@gmail.com
 
+# Prose.io
+prose:
+  media:             "images"
+
 # Custom vars
 version:             1.0.0
