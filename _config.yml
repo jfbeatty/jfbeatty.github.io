@@ -26,8 +26,25 @@ prose:
   media:             "images"
   metadata:
   	_posts:
-  		- name: "date"
+ 
+  		- name: "published"
+          field:
+            label: "Published"
+            element: "checkbox"
+            value: "true"
+        - name: "layout"
+          field:
+            label: "Layout"
+            element: "text"
+            value: "post"
+        - name: "title"
+          field:
+            label: "Title"
+            element: "text"
+            value: "Title here"
+        - name: "date"
   		  field:
+  		  	label: "Date and time"
   		  	element: "text"
   		  	value: CURRENT_DATETIME
 
