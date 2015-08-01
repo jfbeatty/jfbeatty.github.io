@@ -26,7 +26,6 @@ prose:
   media:             "images"
   metadata:
   	_posts:
- 
   		- name: "published"
           field:
             label: "Published"
