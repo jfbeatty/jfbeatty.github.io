@@ -24,6 +24,12 @@ author:
 # Prose.io
 prose:
   media:             "images"
+  metadata:
+  	_posts:
+  		- name: "date"
+  		  field:
+  		  	element: "text"
+  		  	value: CURRENT_DATETIME
 
 # Custom vars
 version:             1.0.0
