@@ -25,8 +25,8 @@ author:
 prose:
   media:             "images"
   metadata:
-  	_posts:
-  		- name: "published"
+    _posts:
+        - name: "published"
           field:
             label: "Published"
             element: "checkbox"
@@ -42,10 +42,10 @@ prose:
             element: "text"
             value: "Title here"
         - name: "date"
-  		  field:
-  		  	label: "Date and time"
-  		  	element: "text"
-  		  	value: CURRENT_DATETIME
+          field:
+            label: "Date and time"
+            element: "text"
+            value: CURRENT_DATETIME
 
 # Custom vars
 version:             1.0.0
