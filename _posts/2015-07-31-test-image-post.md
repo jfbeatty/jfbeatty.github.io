@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test post with images
-date: {}
+date: 2015-07-31 18:00:00
 published: true
 ---
 
