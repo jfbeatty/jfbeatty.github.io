@@ -1,0 +1,22 @@
+<!-- taken from nateharada.com -->
+<div class="menu" id="menu">
+  <nav class="menu-nav container">
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages | sort:"name" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="menu-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  <!-- <a class="menu-nav-item" href="{{ site.author.url }}">Portfolio</a> -->
+  <a class="menu-nav-item" href="http://jfbeatty.github.io/atom.xml">Feed</a>
+  <a class="menu-icon twitter-icon" href="{{ site.author.twitter }}"></a>
+  <a class="menu-icon github-icon" href="{{ site.author.github }}"></a>
+  </nav>
+</div>

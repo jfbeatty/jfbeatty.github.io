@@ -19,6 +19,7 @@
  *
  * Global resets
  * Masthead
+ * Menu [from Nate Harada]
  * Sidebar
  * Slide effect
  * Posts and pages
@@ -95,8 +96,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  padding-bottom: .875rem;
+  margin-bottom: 0rem;
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
@@ -123,6 +124,56 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/*
+ * Menu
+ * 
+ * Small, basic menu to replace sidebar
+ * 
+ */
+
+.menu {
+  margin-bottom: 5px;
+  background-color: #202020;
+}
+
+.menu-fill {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #eee;
+}
+
+.menu-nav {
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem
+}
+
+.menu-nav a {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 0.5rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .875rem; /* 15px */
+  color: rgba(255,255,255,.6);
+}
+
+.menu-icon {
+  background-repeat: no-repeat;
+  padding: 0px;
+  margin-right: 0.3rem;
+  float: right;
+  width: 40px;
+  height: 30px;
+  display: inline-block;
+}
+
+.twitter-icon {
+  background-image: url('/public/twitter-logo-white.png');
+  background-size: 35px 28px;
+}
+
+.github-icon {
+  background-image: url('/public/github-logo-white.png');
+  background-size: 28px 28px;
+}
 
 /*
  * Sidebar
@@ -464,7 +515,8 @@ a.pagination-item:hover {
 /* Red */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
-.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle 
+.theme-base-08 .menu {
   background-color: #ac4142;
 }
 .theme-base-08 .container a,
