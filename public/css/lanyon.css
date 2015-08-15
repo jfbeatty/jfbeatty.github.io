@@ -155,6 +155,8 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255,255,255,.6);
 }
 
+/* Social media icons aren't working
+
 .menu-icon {
   background-repeat: no-repeat;
   padding: 0px;
@@ -167,13 +169,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .twitter-icon {
   background-image: url('/public/twitter-logo-white.png');
-  background-size: 35px 28px;
+  background-size: 28px 28px;
 }
 
 .github-icon {
   background-image: url('/public/github-logo-white.png');
   background-size: 28px 28px;
 }
+
+*/
 
 /*
  * Sidebar

@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lemonade and Information
-tagline:             'The personal website of Joshua Beatty'
+title:               Joshua Beatty
+tagline:             'Libraries, history, &c.'
 description:         'Libraries, history, &c.'
 url:                 http://jfbeatty.github.io
 baseurl:             ""
