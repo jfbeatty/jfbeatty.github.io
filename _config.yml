@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Joshua Beatty
 tagline:             'Libraries, history, &c.'
 description:         'Libraries, history, &c.'
-url:                 http://jfbeatty.github.io
+url:                 http://www.joshuabeatty.info
 baseurl:             ""
 paginate:            5
 
