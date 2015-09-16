@@ -637,3 +637,11 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * Permalinks
+ * At bottom of post
+ * From Dan Sheffler
+ */
+
+ div.source { font-size: 0.9em; color: #999; margin-top:-.2em; margin-bottom: 4em}

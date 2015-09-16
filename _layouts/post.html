@@ -6,7 +6,20 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}           
+  <div class="source">
+    
+    <!--
+    Source: 
+    <a class="source-link" href="{{ page.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
+        md
+    </a>
+    |
+    -->
+    
+    Permalink: <a class="permalink" href="{{ site.baseurl }}{{ post.url }}">html</a>
+  </div>
 </div>
+
 
 <div class="related">
   <h2>Related Posts</h2>
