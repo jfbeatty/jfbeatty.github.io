@@ -1,6 +1,7 @@
 ---
-title: Sage on the Stage, Guide on the Side
 layout: post
+title: Sage on the Stage, Guide on the Side
+date: 2015-09-24 17:00:00
 ---
 
 While researching my Freire paper I became curious about the origins of a particular phrase, or rather pair of phrases, that have become ubiquitous within the IL community. Better to be a "guide on the side" than a "sage on the stage," says the literature.

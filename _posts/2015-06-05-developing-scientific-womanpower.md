@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing Scientific Womanpower: Gender and the Cold War-Era Science Fair"
-date:   2015-06-05 20:36:00
+date:   "2015-06-05 20:36:00 -0400"
 ---
 _This is the paper that Ellen Adams ([@ellensemple](https://twitter.com/ellensemple)) and I presented at the Berkshire Conference on the History of Women in Toronto on 24 May 2014. The paper was part of the panel "Women on the Cutting Edge: Gender, Science, and Technology in the Era of Containment." Thanks to our co-panelists, Sarah McLennan and Kim Mann, our chair, Amy Sue Bix, our commentator, Amy Slaton, and to our most engaged and inquisitive audience!_
 

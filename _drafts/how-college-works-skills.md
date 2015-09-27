@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Chambliss and Takacs, <em>How College Works</em>: Teaching and Learning Skills"
+date:   "2015-09-30 10:10 -0400"
+---
+<!-- new intro, recap from last post -->
+
+Though each department has its own disciplinary content, all are expected to teach certain core skills: writing, speaking, and critical thinking. Writing, in particular, is deeply embedded in Hamilton's culture. Students must take several writing-intensive courses to graduate, often beginning at the 100 level. The basic messages about good writing are repeated over the next four years. Writing is not merely an intellectual activity in the curriculum, but a social activity. And, accordingly, students believe the most important factor in learning to write well is good feedback from their professors both written and, especially, face-to-face (106, 140-142).
+
+Similarly, speaking and critical thinking are learned as part of a community. In speaking, short presentations and small efforts, accumulated over years, lead to large gains in skill and confidence. Speaking, too, has value in that it forces the student to be engaged and rewards emotional intensity, traits that assist learning. Critical thinking also demands emotional engagement by exposing the student to new people and ideas. Faculty emphasize critical thinking across the curriculum, with the goal that, like good writing and good speaking, it will become a habit (112-119).
+
+Yet these skills are not learned without a context. C&T argue that the faculty do not need any special expertise in the theory of writing or speaking when the goal is to instill a basic fluency. Skills are learned by learning and doing, rather than by mastering formal rhetoric or technical perfection. Though critical thinking may be more a general than a professional skill, it is still taught and learned in the context of a particular discipline. The key, then, to learning these skills is a teacher who is both competent and who cares, about both their subject and their students. The discipline or program forms the necessary context, but it is the relationships with faculty and peers that are most crucial to learning to write, speak, and think critically (130-131, 133).
+
+<!-- talk info literacy -->

@@ -7,20 +7,18 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <!-- <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a> -->
-      <!-- if statement looks for post.external-url in YAML header and if it exists creates a link post, else a regular post -->
+      {% comment %}
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+      {% endcomment %}
+      {% comment %}
+        if statement looks for post.external-url in YAML header and if it exists creates a link post, else a regular post
+      {% endcomment %}
       {% if post.external-url %}
         <a href="{{ post.external-url }}">
           {{ post.title }}
-        </a>
-        <!-- alembic as permalink
-        &nbsp;&nbsp;
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          ⚗
-        </a>
-        -->
+        </a>&nbsp;→
       {% else %}
         <a href="{{ post.url }}">
           {{ post.title }}
@@ -30,7 +28,9 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <!-- to create shortened posts on main page -->
+   {% comment %}
+     to create shortened posts on main page
+   {% endcomment %}
     {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}
       <em><a href="{{ post.url }}">…read more</a></em>
@@ -39,18 +39,11 @@ title: Home
     {% endif %}
     
     <div class="source">
-            
-            <!--
-            Source: 
-            <a class="source-link" href="{{ page.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
-                md
-            </a>
-            
-            | --> Permalink: 
-            <a class="permalink" href="{{ site.baseurl }}{{ post.url }}">
-                html
-            </a>
-        </div>
+      Permalink: 
+        <a class="permalink" href="{{ site.baseurl }}{{ post.url }}">
+          html
+        </a>
+    </div>
 
   </div>
   {% endfor %}

@@ -1,4 +1,6 @@
-<!-- taken from nateharada.com -->
+{% comment %}
+  menu code from nateharada.com
+{% endcomment %}
 <div class="menu" id="menu">
   <nav class="menu-nav container">
     {% comment %}
@@ -14,11 +16,14 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-  <!-- <a class="menu-nav-item" href="{{ site.author.url }}">Portfolio</a> -->
-  <a class="menu-nav-item" href="http://jfbeatty.github.io/atom.xml">Feed</a>
-  <!-- Problems getting social media icons to work
-  <a class="menu-icon twitter-icon" href="{{ site.author.twitter }}"></a>
-  <a class="menu-icon github-icon" href="{{ site.author.github }}"></a>
-  -->
+  {% comment %}
+    <a class="menu-nav-item" href="{{ site.author.url }}">Portfolio</a>
+  {% endcomment %}
+  <a class="menu-nav-item" href="http://www.joshuabeatty.info/atom.xml">Feed</a>
+  {% comment %}
+    Problems getting social media icons to work
+    <a class="menu-icon twitter-icon" href="{{ site.author.twitter }}"></a>
+    <a class="menu-icon github-icon" href="{{ site.author.github }}"></a>
+  {% endcomment %}
   </nav>
 </div>
