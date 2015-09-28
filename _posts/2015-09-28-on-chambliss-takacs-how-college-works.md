@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Review: Chambliss and Takacs, <em>How College Works</em>"
-date:   "2015-09-28 10:05 -0400"
+title:  "On Chambliss and Takacs, <em>How College Works</em>"
+date:   "2015-09-28 09:45 -0400"
 ---
-_How College Works_, by Daniel F. Chambliss and Christopher G. Takacs, is a book about the ingredients of a successful education at a small liberal arts college. The library is, to appearances, largely irrelevant to this education; the authors only mention the library a single time. Moreover, that is a remark in passing: time and space can be flexible at college, as for example how "...the library morphs into a social center" (86). The library is otherwise absent, buildings, collections, and librarians alike. Yet _How College Works_ is worth librarians' time, and I think a place exists for the library within the authors' vision of higher education.
+[_How College Works_](http://www.worldcat.org/title/how-college-works/oclc/840460704), by Daniel F. Chambliss and Christopher G. Takacs, is a book about the ingredients of a successful education at a small liberal arts college. The library is, to appearances, largely irrelevant to this education; the authors only mention the library a single time. Moreover, that is a remark in passing: time and space can be flexible at college, as for example how "...the library morphs into a social center" (86). The library is otherwise absent, buildings, collections, and librarians alike. Yet _How College Works_ is worth librarians' time, and I think a place exists for the library within the authors' vision of higher education.
 
 The subject of _How College Works_ is upstate New York's Hamilton College. The authors are, respectively, a sociology professor at Hamilton and an alumnus finishing a doctorate in sociology at the University of Chicago. The main source for the research is a series of interviews with former students at Hamilton, conducted five to ten years after the student's arrival. The goal was to allow the students time and space to reflect on their college experiences so that they could identify the elements that significantly affected their lives, whether positive or negative. A second important source for the book is a qualitative, longitudinal study of student writing.
 
