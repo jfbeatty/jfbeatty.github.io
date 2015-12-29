@@ -2,9 +2,9 @@
 layout: post
 title:  "Oral History and Earthquakes"
 external-url: http://www.hakaimagazine.com/article-long/great-quake-and-great-drowning
-date:   "2015-09-28 15:05 -0400"
+date:   "2015-12-18 15:05 -0400"
 ---
-Ann Finkbeiner, "The Great Quake and the Great Drowning," in _Hakai_:
+Ann Finkbeiner, ["The Great Quake and the Great Drowning,"](http://www.hakaimagazine.com/article-long/great-quake-and-great-drowning) in _Hakai_:
 
 > From the Tolowa people in northern California: one autumn, the earth shook and the water began rising. People began running and when the water reached them, they turned into snakes. But a girl and a boy from the village, both adolescents, outran the water by running to the top of a mountain where they built a fire to keep themselves warm.
 

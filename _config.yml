@@ -10,7 +10,7 @@ tagline:             'Libraries, history, &c.'
 description:         'Libraries, history, &c.'
 url:                 http://www.joshuabeatty.info
 baseurl:             ""
-paginate:            5
+paginate:            10
 
 # About/contact
 author:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Chambliss and Takacs, <em>How College Works</em>"
-date:   "2015-09-28 09:45 -0400"
+date:   "2015-12-16 09:45 -0400"
 ---
 [_How College Works_](http://www.worldcat.org/title/how-college-works/oclc/840460704), by Daniel F. Chambliss and Christopher G. Takacs, is a book about the ingredients of a successful education at a small liberal arts college. The library is, to appearances, largely irrelevant to this education; the authors only mention the library a single time. Moreover, that is a remark in passing: time and space can be flexible at college, as for example how "...the library morphs into a social center" (86). The library is otherwise absent, buildings, collections, and librarians alike. Yet _How College Works_ is worth librarians' time, and I think a place exists for the library within the authors' vision of higher education.
 
