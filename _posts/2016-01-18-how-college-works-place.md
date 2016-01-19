@@ -19,7 +19,8 @@ This leaves out the second of Collins's requirements: that there be a shared foc
 
 But libraries have moved away from their traditional role as a space for concentrated individual study. Instead they emphasize group-friendly additions like lounges, presentation rooms, and the "information common. Yet where else can students go for quiet study space? For this is what libraries, better than anyone else, can provide. The library should enable the copresence of peers around the ritualized common activity of concentrated study, in an atmosphere that asserts the importance and the exclusivity of that concentrated study. Surely this is how the physical space of the library can best help college to work.
 
-Other posts in this series:  
+Other posts in this series:
+
 1. [On Chambliss and Takacs, _How College Works_](http://www.joshuabeatty.info/2015/12/16/on-chambliss-takacs-how-college-works/)  
 2. [Chambliss and Takacs, _How College Works_: Teaching and Learning Skills](http://www.joshuabeatty.info/2015/12/29/how-college-works-skills/)
 
