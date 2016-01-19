@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Chambliss and Takacs, <em>How College Works</em>: The Importance of Place"
-date:   "2016-01-18 19:55 -0400"
+title: "Chambliss and Takacs, <em>How College Works</em>: The Importance of Place"
+date: "2016-01-18 19:55 -0400"
+published: true
 ---
+
 Chambliss and Takacs rely on sociologist Randall Collins's theory of "how emotionally bonded groups come to exist." What struck me is how material the theory is -- how it's not just institutions in the abstract, but the physical spaces themselves, that contribute to a sense of belonging. The best example in _How College Works_ is Hamilton's Science Center. Yet the emotional bonding that takes place at the Science Center is in part due to a sense of exclusivity, and is thus in tension with the inclusivity valued by critical librarianship.
 
 Even within a selective liberal arts college like Hamilton, the sciences are seen a further narrowing of the field. Science majors regard themselves as an elite. They come better prepared from their high schools and take harder courses in college. (The authors, themselves social scientists, believe that natural science courses really are more rigorous than those in other departments). Yet the result is that women are underrepresented. They're less likely than me to tolerate poor introductory teachers and leave for other majors. Students with less preparation from high school, disproportionately minorities, are at a disadvantage. Moreover, science is increasingly taught via research-based education, which may be better for future scientists but not for the majority of students. In short, the authors see a rigorous science education as a good thing, and something that should be available to more than a relatively small, self-selected share of students (119-126).
@@ -17,9 +19,8 @@ This leaves out the second of Collins's requirements: that there be a shared foc
 
 But libraries have moved away from their traditional role as a space for concentrated individual study. Instead they emphasize group-friendly additions like lounges, presentation rooms, and the "information common. Yet where else can students go for quiet study space? For this is what libraries, better than anyone else, can provide. The library should enable the copresence of peers around the ritualized common activity of concentrated study, in an atmosphere that asserts the importance and the exclusivity of that concentrated study. Surely this is how the physical space of the library can best help college to work.
 
-Other posts in this series:
-1. [On Chambliss and Takacs, _How College Works_](http://www.joshuabeatty.info/2015/12/16/on-chambliss-takacs-how-college-works/)
+Other posts in this series:  
+1. [On Chambliss and Takacs, _How College Works_](http://www.joshuabeatty.info/2015/12/16/on-chambliss-takacs-how-college-works/)  
 2. [Chambliss and Takacs, _How College Works_: Teaching and Learning Skills](http://www.joshuabeatty.info/2015/12/29/how-college-works-skills/)
 
 [^mooc]: C&T are, unsurprisingly, not big fans of MOOCs or of online learning in general.
-
