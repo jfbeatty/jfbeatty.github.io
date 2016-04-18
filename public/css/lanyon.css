@@ -112,9 +112,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /*
  * Menu
- * 
+ *
  * Small, basic menu to replace sidebar
- * 
+ *
  */
 
 .menu {
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 */
 
-/* 
+/*
 Below added from Nate Harada's blog in attempt to add social media icons to sidebar. Not yet working.
 .menu-icon {
   background-repeat: no-repeat;
@@ -254,7 +254,7 @@ Below added from Nate Harada's blog in attempt to add social media icons to side
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: /* "PT Sans", */ Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -305,7 +305,7 @@ a.pagination-item:hover {
 /* Red */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
-.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle 
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle
 .theme-base-08 .menu {
   background-color: #ac4142;
 }
