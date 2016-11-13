@@ -51,3 +51,5 @@ prose:
 
 # Custom vars
 version:             1.0.0
+
+gems:                [jekyll-paginate]
