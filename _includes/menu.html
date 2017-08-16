@@ -3,11 +3,13 @@
 {% endcomment %}
 <div class="menu" id="menu">
   <nav class="menu-nav container">
+    <a class="menu-nav-item" href="{{ baseurl }}/about/">About</a>   
+    <a class="menu-nav-item" href="{{ baseurl }}/archive/">Archive</a>
+    <a class="menu-nav-item" href="{{ baseurl }}/teaching/">Teaching</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
+    
     {% assign pages_list = site.pages | sort:"name" %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -16,6 +18,8 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% endcomment %}
+
   {% comment %}
     <a class="menu-nav-item" href="{{ site.author.url }}">Portfolio</a>
   {% endcomment %}
